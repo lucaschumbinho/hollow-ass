@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "Com suas habilidades peculiares, Zé poderia usar os óculos para se divertir às custas dos outros, criando situações absurdas e engraçadas. Ou poderia decidir usar seus poderes para ajudar as pessoas de maneiras inesperadas e inusitadas.",
         alternativas: [
             {
-                texto: "Divertir"
+                texto: "Divertir",
                 afirmacao: "Zé escolheu o caminho da diversão, criando situações cômicas e constrangedoras para os outros ao usar suas habilidades de maneira travessa. Ele se viu no centro de mal-entendidos hilariantes e situações constrangedoras, mantendo seu humor irreverente."
             },
             {
@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
         ]
-];
+    ];
 
 
 let atual = 0;
